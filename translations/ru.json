@@ -5,6 +5,14 @@
         "accountAlreadyExists": "Аккаунт с таким логином уже зарегестрирован",
         "accountDoesnotExists": "Такого аккаунта не существует",
         "wrongPassword": "Неверный пароль",
-        "accessTimeExpired": "Время действия доступа истекло, выполните повторную авторизацию"
+        "accessTimeExpired": "Время действия доступа истекло, выполните повторную авторизацию",
+        "login": "Логин",
+        "password": "Пароль",
+        "email": "Почта",
+        "rememberMe": "Запомнить меня",
+        "signIn": "Войти",
+        "signUp": "Зарегистрироваться",
+        "doesnotHaveAccountSignUp": "У вас нет аккаунта? Создайте",
+        "alreadyHaveAccountSignIn": "Уже есть аккаунт? Войдите"
     }
 }
