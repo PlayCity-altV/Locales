@@ -14,5 +14,10 @@
         "signUp": "Sign up",
         "doesnotHaveAccountSignUp": "Don't have account? Sign up",
         "alreadyHaveAccountSignIn": "Already have account? Sign in"
+    },
+    "chat": {
+        "commands": {
+            "help": "[HELP] Commands: /veh [name], /weapons, /tp [x] [y] [z], /tpto [id], /respawn, /help"
+        }
     }
 }

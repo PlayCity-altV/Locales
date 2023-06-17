@@ -14,5 +14,10 @@
         "signUp": "Зарегистрироваться",
         "doesnotHaveAccountSignUp": "У вас нет аккаунта? Создайте",
         "alreadyHaveAccountSignIn": "Уже есть аккаунт? Войдите"
+    },
+    "chat": {
+        "commands": {
+            "help": "[Помощь] Команды: /veh [имя], /weapons, /tp [x] [y] [z], /tpto [id], /respawn, /help"
+        }
     }
 }
