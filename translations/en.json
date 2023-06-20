@@ -3,17 +3,17 @@
         "alreadyLoggedIn": "You are already logged in",
         "tooLittleData": "Login, mail and password cannot be shorter than 3 characters",
         "accountAlreadyExists": "An account with this login is already registered",
-        "accountDoesnotExists": "Such an account does not exist",
+        "accountDoesnotExists": "Account does not exist",
         "wrongPassword": "Incorrect password",
-        "accessTimeExpired": "The access time has expired, reauthenticate",
+        "accessTimeExpired": "The access time has expired, please sign in again",
         "login": "Login",
         "password": "Password",
         "email": "Email",
         "rememberMe": "Remember me",
         "signIn": "Sign in",
         "signUp": "Sign up",
-        "doesnotHaveAccountSignUp": "Don't have account? Sign up",
-        "alreadyHaveAccountSignIn": "Already have account? Sign in"
+        "doesnotHaveAccountSignUp": "Don't have an account? Create one",
+        "alreadyHaveAccountSignIn": "Already have an account? Sign in"
     },
     "chat": {
         "commands": {
