@@ -13,7 +13,9 @@
         "signIn": "Sign in",
         "signUp": "Sign up",
         "doesnotHaveAccountSignUp": "Don't have an account? Create one",
-        "alreadyHaveAccountSignIn": "Already have an account? Sign in"
+        "alreadyHaveAccountSignIn": "Already have an account? Sign in",
+        "signUpFailed": "Sign up failed",
+        "signInFailed": "Sign in failed"
     },
     "chat": {
         "commands": {

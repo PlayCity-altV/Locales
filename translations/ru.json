@@ -13,7 +13,9 @@
         "signIn": "Войти",
         "signUp": "Зарегистрироваться",
         "doesnotHaveAccountSignUp": "У вас нет аккаунта? Создайте",
-        "alreadyHaveAccountSignIn": "Уже есть аккаунт? Войдите"
+        "alreadyHaveAccountSignIn": "Уже есть аккаунт? Войдите",
+        "signUpFailed": "Ошибка регистрации",
+        "signInFailed": "Ошибка входа"
     },
     "chat": {
         "commands": {
