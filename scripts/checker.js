@@ -33,6 +33,8 @@ fs.readdirSync(translationsDir)
                 console.log(misplacedKeys);
             }
             console.log('\n---------------------\n');
+        } else {
+            console.log(`All keys match in ${file}`);
         }
     });
 
