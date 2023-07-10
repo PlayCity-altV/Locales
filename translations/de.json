@@ -13,7 +13,9 @@
     "signIn": "Anmelden",
     "signUp": "Registrieren",
     "doesnotHaveAccountSignUp": "Du hast noch kein Konto? Erstelle ein Neues",
-    "alreadyHaveAccountSignIn": "Du hast bereits ein Konto? Melde dich an"
+    "alreadyHaveAccountSignIn": "Du hast bereits ein Konto? Melde dich an",
+    "signUpFailed": "Registrierung fehlgeschlagen",
+    "signInFailed": "Anmeldung fehlgeschlagen"
   },
   "chat": {
     "commands": {
