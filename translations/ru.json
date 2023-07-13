@@ -21,5 +21,16 @@
         "commands": {
             "help": "[Помощь] Команды: /veh [имя], /weapons, /tp [x] [y] [z], /tpto [id], /respawn, /help"
         }
+    },
+    "mainMenu": {
+        "modes": "Игровые режимы",
+        "profile": "Профиль",
+        "settings": "Настройки",
+        "logout": "Выйти",
+        "pages": {
+            "settings": {
+                "language": "Выбор языка"
+            }
+        }
     }
 }

@@ -21,5 +21,16 @@
         "commands": {
             "help": "[HELP] Commands: /veh [name], /weapons, /tp [x] [y] [z], /tpto [id], /respawn, /help"
         }
+    },
+    "mainMenu": {
+        "modes": "Game modes",
+        "profile": "Profile",
+        "settings": "Settings",
+        "logout": "Logout",
+        "pages": {
+            "settings": {
+                "language": "Choose language"
+            }
+        }
     }
 }
