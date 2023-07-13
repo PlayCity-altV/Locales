@@ -1,25 +1,25 @@
 {
-  "auth": {
-    "alreadyLoggedIn": "Du bist bereits angemeldet",
-    "tooLittleData": "Benutzername, E-Mail und Passwort müssen mindestens 3 Zeichen lang sein",
-    "accountAlreadyExists": "Ein Konto mit diesem Benutzernamen existiert bereits",
-    "accountDoesnotExists": "Dieses Konto existiert nicht",
-    "wrongPassword": "Falsches Passwort",
-    "accessTimeExpired": "Die Zugriffszeit wurde überschritten. Bitte melde dich erneut an.",
-    "login": "Benutzername",
-    "password": "Passwort",
-    "email": "E-Mail",
-    "rememberMe": "Angemeldet bleiben",
-    "signIn": "Anmelden",
-    "signUp": "Registrieren",
-    "doesnotHaveAccountSignUp": "Du hast noch kein Konto? Erstelle ein Neues",
-    "alreadyHaveAccountSignIn": "Du hast bereits ein Konto? Melde dich an",
-    "signUpFailed": "Registrierung fehlgeschlagen",
-    "signInFailed": "Anmeldung fehlgeschlagen"
-  },
-  "chat": {
-    "commands": {
-      "help": "[HILFE] Befehle: /veh [Name], /weapons, /tp [x] [y] [z], /tpto [Id], /respawn, /help"
+    "auth": {
+        "alreadyLoggedIn": "Du bist bereits angemeldet",
+        "tooLittleData": "Benutzername, E-Mail und Passwort müssen mindestens 3 Zeichen lang sein",
+        "accountAlreadyExists": "Ein Konto mit diesem Benutzernamen existiert bereits",
+        "accountDoesnotExists": "Dieses Konto existiert nicht",
+        "wrongPassword": "Falsches Passwort",
+        "accessTimeExpired": "Die Zugriffszeit wurde überschritten. Bitte melde dich erneut an.",
+        "login": "Benutzername",
+        "password": "Passwort",
+        "email": "E-Mail",
+        "rememberMe": "Angemeldet bleiben",
+        "signIn": "Anmelden",
+        "signUp": "Registrieren",
+        "doesnotHaveAccountSignUp": "Du hast noch kein Konto? Erstelle ein Neues",
+        "alreadyHaveAccountSignIn": "Du hast bereits ein Konto? Melde dich an",
+        "signUpFailed": "Registrierung fehlgeschlagen",
+        "signInFailed": "Anmeldung fehlgeschlagen"
+    },
+    "chat": {
+        "commands": {
+            "help": "[HILFE] Befehle: /veh [Name], /weapons, /tp [x] [y] [z], /tpto [Id], /respawn, /help"
+        }
     }
-  }
 }
