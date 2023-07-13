@@ -29,7 +29,7 @@ fs.readdirSync(translationsDir)
             }
 
             if (misplacedKeys.length > 0) {
-                console.log(`Incorrect key order:`);
+                console.log('Incorrect key order:');
                 console.log(misplacedKeys);
             }
             console.log('\n---------------------\n');
