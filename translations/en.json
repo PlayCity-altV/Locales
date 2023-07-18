@@ -32,5 +32,9 @@
                 "language": "Choose language"
             }
         }
+    },
+    "prompt": {
+        "yes": "Yes",
+        "no": "No"
     }
 }
