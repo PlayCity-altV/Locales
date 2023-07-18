@@ -35,6 +35,7 @@
     },
     "prompt": {
         "yes": "Yes",
-        "no": "No"
+        "no": "No",
+        "leaveGame": "Are you sure you want to leave the game?"
     }
 }
