@@ -15,7 +15,15 @@
         "doesnotHaveAccountSignUp": "У вас нет аккаунта? Создайте",
         "alreadyHaveAccountSignIn": "Уже есть аккаунт? Войдите",
         "signUpFailed": "Ошибка регистрации",
-        "signInFailed": "Ошибка входа"
+        "signInFailed": "Ошибка входа",
+        "goBack": "Вернуться назад",
+        "mfa": {
+            "name": "2FA",
+            "enter": "Введите 2FA",
+            "add": "Добавить 2FA",
+            "submit": "Подтвердить 2FA",
+            "remove": "Удалить 2FA"
+        }
     },
     "chat": {
         "commands": {

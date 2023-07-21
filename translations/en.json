@@ -15,7 +15,15 @@
         "doesnotHaveAccountSignUp": "Don't have an account? Create one",
         "alreadyHaveAccountSignIn": "Already have an account? Sign in",
         "signUpFailed": "Sign up failed",
-        "signInFailed": "Sign in failed"
+        "signInFailed": "Sign in failed",
+        "goBack": "Go back",
+        "mfa": {
+            "name": "2FA",
+            "enter": "Enter 2FA",
+            "add": "Add 2FA",
+            "submit": "Submit 2FA",
+            "remove": "Remove 2FA"
+        }
     },
     "chat": {
         "commands": {
