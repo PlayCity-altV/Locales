@@ -20,7 +20,7 @@
         "mfa": {
             "name": "Two-Factor-Authentication",
             "enter": "Enter code",
-            "add": "Add 2FA",
+            "add": "Configure",
             "submit": "Continue",
             "remove": "Remove 2FA"
         }
