@@ -18,10 +18,10 @@
         "signInFailed": "Sign in failed",
         "goBack": "Go back",
         "mfa": {
-            "name": "2FA",
-            "enter": "Enter 2FA",
+            "name": "Two-Factor-Authentication",
+            "enter": "Enter code",
             "add": "Add 2FA",
-            "submit": "Submit 2FA",
+            "submit": "Continue",
             "remove": "Remove 2FA"
         }
     },

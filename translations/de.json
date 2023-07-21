@@ -18,10 +18,10 @@
         "signInFailed": "Anmeldung fehlgeschlagen",
         "goBack": "Zurück",
         "mfa": {
-            "name": "2FA",
-            "enter": "2FA eingeben",
+            "name": "Zwei-Faktor-Authentifizierung",
+            "enter": "Code eingeben",
             "add": "2FA hinzufügen",
-            "submit": "2FA übermitteln",
+            "submit": "Fortfahren",
             "remove": "2FA entfernen"
         }
     },
