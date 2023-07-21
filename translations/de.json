@@ -15,11 +15,35 @@
         "doesnotHaveAccountSignUp": "Du hast noch kein Konto? Erstelle ein Neues",
         "alreadyHaveAccountSignIn": "Du hast bereits ein Konto? Melde dich an",
         "signUpFailed": "Registrierung fehlgeschlagen",
-        "signInFailed": "Anmeldung fehlgeschlagen"
+        "signInFailed": "Anmeldung fehlgeschlagen",
+        "goBack": "Zurück",
+        "mfa": {
+            "name": "2FA",
+            "enter": "2FA eingeben",
+            "add": "2FA hinzufügen",
+            "submit": "2FA übermitteln",
+            "remove": "2FA entfernen"
+        }
     },
     "chat": {
         "commands": {
             "help": "[HILFE] Befehle: /veh [Name], /weapons, /tp [x] [y] [z], /tpto [Id], /respawn, /help"
         }
+    },
+    "mainMenu": {
+        "modes": "Spielmodi",
+        "profile": "Profil",
+        "settings": "Einstellungen",
+        "logout": "Abmelden",
+        "pages": {
+            "settings": {
+                "language": "Sprache wählen"
+            }
+        }
+    },
+    "prompt": {
+        "yes": "Ja",
+        "no": "Nein",
+        "leaveGame": "Bist du dir sicher, dass du das Spiel verlassen möchtest?"
     }
 }
