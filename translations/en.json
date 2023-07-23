@@ -23,6 +23,12 @@
             "add": "Configure",
             "submit": "Continue",
             "remove": "Remove 2FA"
+        },
+        "discord": {
+            "link": "Link account",
+            "unlink": "Unlink account",
+            "noDiscordAccount": "Your Discord account is not linked",
+            "signIn": "Sign in with discord"
         }
     },
     "chat": {
