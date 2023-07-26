@@ -23,6 +23,12 @@
             "add": "Einrichten",
             "submit": "Fortfahren",
             "remove": "2FA entfernen"
+        },
+        "discord": {
+            "link": "Account verknüpfen",
+            "unlink": "Verknüpfung aufheben",
+            "noDiscordAccount": "Dein Discord Account ist nicht verknüpft",
+            "signIn": "Mit Discord anmelden"
         }
     },
     "chat": {
