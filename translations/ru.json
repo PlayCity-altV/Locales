@@ -33,7 +33,7 @@
     },
     "chat": {
         "commands": {
-            "help": "[Помощь] Команды: /veh [имя], /weapons, /tp [x] [y] [z], /tpto [id], /respawn, /help"
+            "help": "[Помощь] Команды: /veh [имя], /weapons, /tp [x] [y] [z], /tpplayer [id], /tpveh [id], /respawn, /help"
         }
     },
     "mainMenu": {
