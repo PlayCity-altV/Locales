@@ -51,5 +51,21 @@
         "yes": "Yes",
         "no": "No",
         "leaveGame": "Are you sure you want to leave the game?"
+    },
+    "ui": {
+        "views": {
+            "main": {
+                "title": "Main menu",
+                "temporaryCover": "Server in development",
+                "tabs": {
+                    "settings": "Settings",
+                    "leftGame": "Quit the game"
+                },
+                "sections": {
+                    "startGame": "Start the game",
+                    "leftGame": "Quit the game"
+                }
+            }
+        }
     }
 }
