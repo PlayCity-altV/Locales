@@ -36,17 +36,6 @@
             "help": "[Помощь] Команды: /veh [имя], /weapons, /tp [x] [y] [z], /tpplayer [id], /tpveh [id], /respawn, /help"
         }
     },
-    "mainMenu": {
-        "modes": "Игровые режимы",
-        "profile": "Профиль",
-        "settings": "Настройки",
-        "logout": "Выйти",
-        "pages": {
-            "settings": {
-                "language": "Выбор языка"
-            }
-        }
-    },
     "prompt": {
         "yes": "Да",
         "no": "Нет",
@@ -63,7 +52,20 @@
                 },
                 "sections": {
                     "startGame": "Начать игру",
-                    "leftGame": "Выйти из игры"
+                    "leftGame": "Выйти из игры",
+                    "settings": {
+                        "main": {
+                            "title": "Основные",
+                            "header": "Основные настройки",
+                            "language": {
+                                "title": "Выберите язык",
+                                "placeholder": "Русский...",
+                                "nothingFound": "Не найдено"
+                            }
+                        },
+                        "2fa": "2FA",
+                        "discord": "Discord"
+                    }
                 }
             }
         }
