@@ -36,17 +36,6 @@
             "help": "[HELP] Commands: /veh [name], /weapons, /tp [x] [y] [z], /tpplayer [id], /tpveh [id], /respawn, /help"
         }
     },
-    "mainMenu": {
-        "modes": "Game modes",
-        "profile": "Profile",
-        "settings": "Settings",
-        "logout": "Logout",
-        "pages": {
-            "settings": {
-                "language": "Choose language"
-            }
-        }
-    },
     "prompt": {
         "yes": "Yes",
         "no": "No",
@@ -63,7 +52,20 @@
                 },
                 "sections": {
                     "startGame": "Start the game",
-                    "leftGame": "Quit the game"
+                    "leftGame": "Quit the game",
+                    "settings": {
+                        "main": {
+                            "title": "Main",
+                            "header": "Main settings",
+                            "language": {
+                                "title": "Select language",
+                                "placeholder": "English...",
+                                "nothingFound": "Nothing found"
+                            }
+                        },
+                        "2fa": "2FA",
+                        "discord": "Discord"
+                    }
                 }
             }
         }
