@@ -67,7 +67,8 @@
                         "discord": "Discord"
                     }
                 }
-            }
+            },
+            "areYouSureQuitGame": "Do you want quit the game?"
         }
     }
 }
